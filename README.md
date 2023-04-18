@@ -1,16 +1,5 @@
 # helloworldapp
 
-A new Flutter project.
+# A basic Flutter App which just shows Hello World on screen
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/131195795/232890544-b018463f-42fa-4cba-a532-bf7cb21a0aed.png)
